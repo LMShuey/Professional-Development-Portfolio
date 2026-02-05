@@ -1,3 +1,4 @@
+[![CI](https://github.com/LMShuey/Professional-Development-Portfolio/workflows/CI/badge.svg)](https://github.com/LMShuey/Professional-Development-Portfolio/actions)
 # Professional Development Portfolio – L. Michael Shuey
 
 Walsenburg, CO 81089  
